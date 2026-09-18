@@ -4,6 +4,6 @@ description: This is my portfolio showcasing my projects and skills.
 
 baseurl: "" 
 
-url: "https://DDM1940206.github.io" 
+url: "https://ddm1940206.github.io" 
 
-theme: jekyll-theme-TimeMachine
+theme: jekyll-theme-timemachine
