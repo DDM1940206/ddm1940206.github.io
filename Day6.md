@@ -13,4 +13,4 @@ Width scale: 6
 Smallest width of the model racetrack: 154.6 mm
 Apply scale: smallest width X scale =  2164.4 mm
 
-Convert to cm =
+Convert to cm = 216.44 cm
